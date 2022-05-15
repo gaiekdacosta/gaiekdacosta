@@ -5,7 +5,7 @@ a fim de tirar as minhas ideias de criança da imaginação, nessa época eu des
 Bom, hoje eu não me vejo trabalhando com isso mas desde o ano passo (já com 17 anos) venho estudando de forma assídua e constante a aréa de front-end 
 e as suas tecnologias.
 
-📚Atualmente, tenho focado meus aprendizados em html, css, js e flutter com o objetivo de me capacitar da forma mais rapida e competitiva ao mercado de trabalho
+📚Atualmente, tenho focado meus aprendizados em html, css, js e react com o objetivo de me capacitar da forma mais rapida e competitiva ao mercado de trabalho
 e em paralelo realizar projetos como freelancer.
 
 🎮 No tempo livro eu gosto de ler livros de não ficção sobre historia, negócios, tecnologia, economia e entre outros, jogar games (principalmente rpg) 
