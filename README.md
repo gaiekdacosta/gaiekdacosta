@@ -11,4 +11,4 @@ e em paralelo realizar projetos como freelancer.
 🎮 No tempo livro eu gosto de ler livros de não ficção sobre historia, negócios, tecnologia, economia e entre outros, jogar games (principalmente rpg) 
 e viajar para o interior.
 
-🎯Meu maior objetivo na aréa da tecnologia é criar algo grande e que realmente faça a diferença na vida das pessoas
+🎯Meu maior objetivo na aréa da tecnologia é criar algo grande e que realmente faça a diferença na vida das pessoas.
