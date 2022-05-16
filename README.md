@@ -8,7 +8,7 @@ e as suas tecnologias.
 📚Atualmente, tenho focado meus aprendizados em html, css, js e react com o objetivo de me capacitar da forma mais rapida e competitiva ao mercado de trabalho
 e em paralelo realizar projetos como freelancer.
 
-🎮 No tempo livro eu gosto de ler livros de não ficção sobre historia, negócios, tecnologia, economia e entre outros, jogar games (principalmente rpg) 
+🎮 No tempo livre eu gosto de ler livros de não ficção sobre historia, negócios, tecnologia, economia e entre outros, jogar games (principalmente rpg) 
 e viajar para o interior.
 
 🎯Meu maior objetivo na aréa da tecnologia é criar algo grande e que realmente faça a diferença na vida das pessoas.
