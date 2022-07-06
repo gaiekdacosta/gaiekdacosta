@@ -9,3 +9,6 @@ e as suas tecnologias.
 🎮 No tempo livre eu gosto de ler livros de não ficção sobre historia, negócios, tecnologia, economia e entre outros, jogar games (principalmente fps) e viajar para o interior.
 
 🎯Meu maior objetivo na aréa da tecnologia é criar algo grande e que realmente faça a diferença na vida das pessoas.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaiekdacosta&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaiekdacosta&show_icons=true&theme=dark)
