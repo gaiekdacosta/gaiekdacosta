@@ -20,8 +20,6 @@ Tenho conhecimentos nas tecnologias:
 <br>
 • Chakra.
 <br>
-• Bulma.
-<br>
 • Git,
 <br>
 • Html.
