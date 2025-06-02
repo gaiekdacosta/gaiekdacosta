@@ -12,12 +12,17 @@
 - **HTML5** | **CSS3**  
 
 ### Back-end & DevOps
-- **Node.js** (Express, APIs RESTful)  
+- **Node.js** (Express, APIs RESTful) 
+- **Express**
+- **Fastify** 
 - **Docker**  
 - **Git**  
 
 ### Banco de Dados & Arquitetura
-- **SQL & NoSQL**  
+- **SQL & NoSQL**
+- **MySQL**
+- **Oracle**
+- **Postgres**
 - **Clean Code** | **SOLID**  
 - **Arquitetura de Software**  
 
