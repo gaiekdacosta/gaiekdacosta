@@ -1,44 +1,34 @@
-## Olá pessoal! 👋
+# 👋 Olá, eu sou Gaiek da costa!
 
-🎯Aficionado por transformar ideias em códigos.
-<br>
-📚Cursando analise e desenvolvimento de sistemas
+🎯 **Apaixonado por transformar ideias em código** e criar soluções inovadoras.  
+📚 Cursando **Análise e Desenvolvimento de Sistemas** com foco em boas práticas de desenvolvimento.
 
-Tenho conhecimentos nas tecnologias:
-<br>
-• JavaScript,
-<br>
-• Typescript,
-<br>
-• React JS,
-<br>
-• Node JS,
-<br>
-• Styled Components.
-<br>
-• Bootstrap.
-<br>
-• Chakra.
-<br>
-• Git,
-<br>
-• Html.
-<br>
-• Css.
-<br><br>
-Possuo noções de:
-<br>
-• Arquitetura e engenharia de software,
-<br>
-• Banco de dados,
-<br>
-• API Restful,
-<br>
-• Clean Code,
-<br>
-• Desenvolvimento ágil,
-<br>
-• Docker,
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaiekdacosta&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaiekdacosta&show_icons=true&theme=dark)
+## 🛠️ Tecnologias
+
+### Front-end
+- **JavaScript** | **TypeScript**  
+- **React.js** (Hooks, Context API)  
+- **Styled Components** | **Chakra UI** | **Bootstrap**  
+- **HTML5** | **CSS3**  
+
+### Back-end & DevOps
+- **Node.js** (Express, APIs RESTful)  
+- **Docker**  
+- **Git**  
+
+### Banco de Dados & Arquitetura
+- **SQL & NoSQL**  
+- **Clean Code** | **SOLID**  
+- **Arquitetura de Software**  
+
+## 🌱 Aprendendo
+- **Next.js**  
+- **Testes Automatizados** (Jest)  
+- **Microserviços**  
+
+## 📫 Contato
+- LinkedIn: https://linkedin.com/in/pelipe-gaiek
+- GitHub: https://github.com/gaiekdacosta
+- E-mail: pelipe.gaiek1701@gmail.com  
+
+💡 **Aberto a colaborações e oportunidades!**  
