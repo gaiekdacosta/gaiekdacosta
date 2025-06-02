@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Gaiek da costa!
 
 🎯 **Apaixonado por transformar ideias em código** e criar soluções inovadoras.  
-📚 Cursando **Análise e Desenvolvimento de Sistemas** com foco em boas práticas de desenvolvimento.
+🎓 **Análise e Desenvolvimento de Sistemas** com foco em boas práticas de desenvolvimento.
 
 ## 🛠️ Tecnologias
 
