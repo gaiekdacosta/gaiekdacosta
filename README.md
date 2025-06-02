@@ -15,6 +15,7 @@
 - **Node.js** (Express, APIs RESTful) 
 - **Express**
 - **Fastify** 
+- **RabbitMQ**
 - **Docker**  
 - **Git**  
 
