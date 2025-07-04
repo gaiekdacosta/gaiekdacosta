@@ -8,7 +8,7 @@
 ### Front-end
 - **JavaScript** | **TypeScript**  
 - **React.js** (Hooks, Context API)  
-- **Styled Components** | **Chakra UI** | **Bootstrap**  
+- **Styled Components** | **Chakra UI** | **Bootstrap** | **Tailwind** | **Shadcn** 
 - **HTML5** | **CSS3**  
 
 ### Back-end & DevOps
